@@ -1,0 +1,15 @@
+.hub/manifests
+.hub/templates/credentials.yaml
+.hub/templates/pipeline.yaml
+.hub/hub.elaborate
+.hub/hub.state
+.terraform
+*.tfplan
+
+# Gradle ignores
+.classpath
+.project
+.settings/*
+.gradle/*
+bin/*
+out/*
